@@ -10,6 +10,7 @@
 <style>
 .alert-demo-1 .devui-alert {
   margin-bottom: 20px;
+  /* 字体变大时，样式异常 */
   font-size: 50px;
 }
 </style>
